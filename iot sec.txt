@@ -1,0 +1,27 @@
+google dorks
+
+intitle:Axis 2400 video server Mostly security cameras, car parks, colleges, clubs, bars, etc.
+
+intitle:axis intitle:”video server” Mostly security cameras, car parks, colleges, bars, ski slopes etc.
+
+intitle:”EvoCam” inurl:”webcam.html” Mostly European security cameras
+
+intitle:”Live NetSnap Cam-Server feed” Network cameras, private and non private web cameras
+
+intitle:”Live View / – AXIS” Mostly security cameras, car parks, colleges etc.
+
+intitle:”LiveView / – AXIS” | inurl:view/view.shtml Mostly security cameras, car parks, colleges etc.
+
+intitle:liveapplet Mostly security cameras, car parks, colleges, clubs, bars etc.
+
+intitle:snc-cs3 inurl:home/ Mostly security cameras, swimming pools and more etc.
+
+intitle:”snc-rz30 home” Mostly security cameras, shops, car parks
+
+intitle:snc-z20 inurl:home/ Mostly security cameras, swimming pools and more etc.
+
+shodan.io
+
+
+Osint framework
+
